@@ -35,5 +35,5 @@ def generateMoviePage():
     open_movies_page(movies_list)
 
 if __name__ == "__main__":
-    main()
+    generateMoviePage()
     
