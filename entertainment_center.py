@@ -26,7 +26,8 @@ def generateMoviePage():
                     )
     hotwheels = Movie("Hot Wheels Highway 35 World Race",
                     "https://www.youtube.com/watch?v=mHAf2Zk1D38",
-                    "https://ia.media-imdb.com/images/M/MV5BMTQ4NTExNzI4M15BMl5BanBnXkFtZTcwMDAwMzQyMQ@@._V1_UY268_CR2,0,182,268_AL_.jpg")
+                    "https://ia.media-imdb.com/images/M/MV5BMTQ4NTExNzI4M15BMl5BanBnXkFtZTcwMDAwMzQyMQ@@._V1_UY268_CR2,0,182,268_AL_.jpg"
+                    )
     
     #Append all of the movie classes into list
     movies_list.append(avatar)
