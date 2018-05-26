@@ -1,10 +1,6 @@
 from media import Movie
 from fresh_tomatoes import open_movies_page
 
-
-
-
-
 def generateMoviePage():
     """Generates a webpage based on movie data supplied within the function."""
 
